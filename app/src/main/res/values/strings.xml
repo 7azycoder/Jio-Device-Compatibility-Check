@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">My Jio</string>
+    <string name="drawer_open">drawer open</string>
+    <string name="drawer_close">drawer close</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="ques">
+        <item>"What is Jio Welcome offer?"</item>
+        <item>"How can i get Jio Welocome offer?"</item>
+        <item>"I am already on Jio Preview Offer, what is the impact on my plan? Will I not get the unlimited offer any more?"</item>
+        <item>"Dheeraj Asnani"</item>
+        <item>"Chetan Mann"</item>
+        <item>"Disha Shokeen"</item>
+        <item>"Akanksha Ahuja"</item>
+        <item>"Ishu CHoudhary"</item>
+        <item>"Jagmeet Singh"</item>
+        <item>"Gurpreet Singh"</item>
+    </string-array>
+    <string-array name="ans">
+        <item>"Jio Welcome Offer is an offer to all our customers to experience our True4G network.
+You will be able to enjoy unlimited HD voice and video calling, unlimited SMS, high-speed data and access to a host of Jio premium apps till 31st Dec, 2016. Thereafter, you will be able to select a tariff plan of your choice. Details of our tariff plans are available on our website www.jio.com"</item>
+        <item>"You can get the Jio Welcome Offer through any 4G LTE device.
+Install the MyJio App from Play Store and follow simple instructions to generate an Offer Code. Visit Reliance Digital and Dx Mini stores, Modern Trade outlets and prominent multi brand Jio stores with original and copy of Proof of Address (POA) and Proof of Identity (POI) and one passport size photograph. Please ensure you carry your Jio Welcome Offer Code along with the handset."</item>
+        <item>"If you are an existing Jio Preview Offer customer, you will be automatically migrated to the Jio Welcome Offer on 05th Sept, 2016. As a part of this Offer, you will continue to enjoy unlimited HD voice and video calling, unlimited SMS, high-speed data and access to a host of Jio premium apps till 31st Dec, 2016."</item>
+        <item>"asnani@yahoo.com"</item>
+        <item>"chm@gmail.com"</item>
+        <item>"disha@yahoo.com"</item>
+        <item>"akki@yahoo.com"</item>
+        <item>"ishu@gmail.com"</item>
+        <item>"jaggu@gmail.com"</item>
+        <item>"preet@gmail.com"</item>
+    </string-array>
+
+</resources>
