@@ -1,2 +1,203 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/devlovepreet/AndroidProjects/JioDeviceCompatibility-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/devlovepreet/AndroidProjects/JioDeviceCompatibility-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_3f532112806a6d2f6864197a7a9d60a6d6e697b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/devlovepreet/AndroidProjects/JioDeviceCompatibility-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="720a6be6ad79ec9f29f2b5eda1820509707a34ca">
+        <dex dex="/home/devlovepreet/AndroidProjects/JioDeviceCompatibility-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ded39760264bff2a72c7a70cbd03324085c642f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/devlovepreet/AndroidProjects/JioDeviceCompatibility-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/devlovepreet/AndroidProjects/JioDeviceCompatibility-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_ac81c9529929a2235fd6530416d4f27e900153b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/devlovepreet/AndroidProjects/JioDeviceCompatibility-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/devlovepreet/AndroidProjects/JioDeviceCompatibility-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_832ea7dc03521ebbc3687858dd0a329f4f22ae7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/devlovepreet/AndroidProjects/JioDeviceCompatibility-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/devlovepreet/AndroidProjects/JioDeviceCompatibility-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_b74f3f29353a04e6dafaf58aeeb34ca4dc6d259b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/devlovepreet/AndroidProjects/JioDeviceCompatibility-master/app/build/intermediates/exploded-aar/com.toptoche.searchablespinner/searchablespinnerlibrary/1.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dbfaa66636f1fadb6cff4080a3a271e97f288340">
+        <dex dex="/home/devlovepreet/AndroidProjects/JioDeviceCompatibility-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.toptoche.searchablespinner-searchablespinnerlibrary-1.3.1_116edcbee25b73c00dda9e9fbb60919f023d1b06/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/devlovepreet/AndroidProjects/JioDeviceCompatibility-master/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/devlovepreet/AndroidProjects/JioDeviceCompatibility-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_a1c0f8749aacba5ef587372ed43d18572ee540f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/devlovepreet/AndroidProjects/JioDeviceCompatibility-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="93a0248fe0524b4fa2d16f5f7c3cff8452796454">
+        <dex dex="/home/devlovepreet/AndroidProjects/JioDeviceCompatibility-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.6.0_4e9f83867ffe0d3f44f687840407bdc7588cbcb4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/devlovepreet/AndroidProjects/JioDeviceCompatibility-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="eb96a230c7b55d545fbdee45157a5a75b2b26284">
+        <dex dex="/home/devlovepreet/AndroidProjects/JioDeviceCompatibility-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.6.0_75d94b77b5adfb399c89f560b6849121a5a8fd16/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/devlovepreet/AndroidProjects/JioDeviceCompatibility-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/devlovepreet/AndroidProjects/JioDeviceCompatibility-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_868c1ca128f82d88bad2ae1ee7b75ae578ad1776/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/devlovepreet/AndroidProjects/JioDeviceCompatibility-master/app/build/intermediates/exploded-aar/com.github.medyo/fancybuttons/1.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="511320053169bdc5d8445a414db09e7cdd10d920">
+        <dex dex="/home/devlovepreet/AndroidProjects/JioDeviceCompatibility-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.medyo-fancybuttons-1.5_f2c255a473cdc004359c356a179039b014b565b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/devlovepreet/AndroidProjects/JioDeviceCompatibility-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="614b2ffd04818e865e1c02cc149c6b92e518e862">
+        <dex dex="/home/devlovepreet/AndroidProjects/JioDeviceCompatibility-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.6.0_bd559cfb7c09ba4dd682af716b5b79841a89f386/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/devlovepreet/AndroidProjects/JioDeviceCompatibility-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a723c85825d9591baec200523c10662e30c8bed7">
+        <dex dex="/home/devlovepreet/AndroidProjects/JioDeviceCompatibility-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.6.0_5fd2470e998b66faa24fbc00c24025a8f70d3207/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/devlovepreet/AndroidProjects/JioDeviceCompatibility-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f6afcfbf1989631424f9ceaae6ee24777d3cf6ba">
+        <dex dex="/home/devlovepreet/AndroidProjects/JioDeviceCompatibility-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.6.0_35c081a0e8e88223b97c8b305d8fca654e0840a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/devlovepreet/AndroidProjects/JioDeviceCompatibility-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f1a27b8a04553d751d4ed9bc55b6359050037bc7">
+        <dex dex="/home/devlovepreet/AndroidProjects/JioDeviceCompatibility-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_110be7a66c25111f35509237ebbc8599fb810238/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/devlovepreet/AndroidProjects/JioDeviceCompatibility-master/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/home/devlovepreet/AndroidProjects/JioDeviceCompatibility-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.4.0_00cb785482c64cd0b22805da67557e4f972e3efc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/devlovepreet/AndroidProjects/JioDeviceCompatibility-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6d16df2955bbd154b36819386cfd2e3b7f7cae5b">
+        <dex dex="/home/devlovepreet/AndroidProjects/JioDeviceCompatibility-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.6.0_73ed2cff1b6a575b59474832d5e59c4815c0f6bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/devlovepreet/AndroidProjects/JioDeviceCompatibility-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4cfc5a74aa9453cbec685cdbcb3e3f3539b483bd">
+        <dex dex="/home/devlovepreet/AndroidProjects/JioDeviceCompatibility-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.6.0_5196235659e8af1d7cffe87974b579ee1a252bbb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/devlovepreet/AndroidProjects/JioDeviceCompatibility-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/devlovepreet/AndroidProjects/JioDeviceCompatibility-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_3f9a5cd03ca36c9a7547cdee6edee15d45d5c953/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/devlovepreet/AndroidProjects/JioDeviceCompatibility-master/app/build/intermediates/exploded-aar/com.vstechlab.easyfonts/easyfonts/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b43f286591e4cff994aab0192b03c7c7076b3c84">
+        <dex dex="/home/devlovepreet/AndroidProjects/JioDeviceCompatibility-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.vstechlab.easyfonts-easyfonts-1.0.0_749267c1868510da3aaaf66a17b666025be91873/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/devlovepreet/AndroidProjects/JioDeviceCompatibility-master/app/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/3.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bb58484b10248cbf93dddee3d981d2e61f27f6e5">
+        <dex dex="/home/devlovepreet/AndroidProjects/JioDeviceCompatibility-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.paolorotolo-appintro-3.3.0_0fa7dd8546762341484ea439250b5218af0be284/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/devlovepreet/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/devlovepreet/AndroidProjects/JioDeviceCompatibility-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_f7fc5cbd641dc6dd37d0be0dab12a93b4850872c/classes.dex" />
+    </item>
+
+</items>

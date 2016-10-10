@@ -1,22 +1,21 @@
 <resources>
-    <string name="app_name">My Jio</string>
-    <string name="drawer_open">drawer open</string>
-    <string name="drawer_close">drawer close</string>
+    <string name="app_name">Jio Checker</string>
+    <string name="title_activity_menu">MenuActivity</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
 
     <string-array name="ques">
         <item>"What is Jio Welcome offer?"</item>
         <item>"How can i get Jio Welocome offer?"</item>
         <item>"I am already on Jio Preview Offer, what is the impact on my plan? Will I not get the unlimited offer any more?"</item>
-        <item>"Dheeraj Asnani"</item>
-        <item>"Chetan Mann"</item>
-        <item>"Disha Shokeen"</item>
-        <item>"Akanksha Ahuja"</item>
-        <item>"Ishu CHoudhary"</item>
-        <item>"Jagmeet Singh"</item>
-        <item>"Gurpreet Singh"</item>
+        <item>"What is the validity of the Jio Offer?"</item>
+        <item>"What are the applicable charges after the expiry of the Jio Welcome Offer?"</item>
+        <item>"Can I port in my existing mobile number to Jio?"</item>
+        <item>"Is ISD facility and international roaming available on the Jio Welcome Offer?"</item>
+
     </string-array>
     <string-array name="ans">
         <item>"Jio Welcome Offer is an offer to all our customers to experience our True4G network.
@@ -24,13 +23,24 @@ You will be able to enjoy unlimited HD voice and video calling, unlimited SMS, h
         <item>"You can get the Jio Welcome Offer through any 4G LTE device.
 Install the MyJio App from Play Store and follow simple instructions to generate an Offer Code. Visit Reliance Digital and Dx Mini stores, Modern Trade outlets and prominent multi brand Jio stores with original and copy of Proof of Address (POA) and Proof of Identity (POI) and one passport size photograph. Please ensure you carry your Jio Welcome Offer Code along with the handset."</item>
         <item>"If you are an existing Jio Preview Offer customer, you will be automatically migrated to the Jio Welcome Offer on 05th Sept, 2016. As a part of this Offer, you will continue to enjoy unlimited HD voice and video calling, unlimited SMS, high-speed data and access to a host of Jio premium apps till 31st Dec, 2016."</item>
-        <item>"asnani@yahoo.com"</item>
-        <item>"chm@gmail.com"</item>
-        <item>"disha@yahoo.com"</item>
-        <item>"akki@yahoo.com"</item>
-        <item>"ishu@gmail.com"</item>
-        <item>"jaggu@gmail.com"</item>
-        <item>"preet@gmail.com"</item>
+        <item>"The Jio Offer is valid till 31st Dec, 2016."</item>
+        <item>"The Jio Welcome Offer is valid till 31st Dec, 2016. After the expiry of the Jio Welcome Offer, you will pay charges as per the tariff plan selected by you from the list of plans available on our website www.jio.com"</item>
+        <item>"As part of the Jio Offer, you can port in your existing mobile number to Jio.
+To port in, send PORT Mobile Number to 1900 from your existing number which needs to be ported to Jio.
+Download MyJio app from Play Store or App Store and generate offer code.
+Walk in to any of the Reliance Digital / Dx Mini / Preferred Jio retailer or prominent multi-brand Jio stores with the port out code and your Jio Welcome Offer code along with the handset.
+You will need to submit a copy of Proof of Address, Proof of Identity and a photograph for availing your Jio SIM."</item>
+        <item>"ISD facility and international messaging will be available on chargeable basis shortly. You will be able to purchase the ISD voucher from MyJio app or by logging in to www.jio.com. Similarly packs will be available for international roaming shortly."</item>
+
     </string-array>
+
+
+    <!-- AdMob ad unit IDs -->
+
+    <string name="interstitial_full_screen">ca-app-pub-8002420439813179/8225650444</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
 
 </resources>

@@ -1,0 +1,265 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:fancy="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="#ffffff"
+    android:layout_marginTop="50dp">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.2"
+        >
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.5"
+        android:orientation="horizontal"
+
+        >
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@mipmap/screen1_mobile_icon"
+            android:padding="15dp"
+            />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1.8"
+            android:orientation="vertical"
+            >
+
+            <LinearLayout
+                android:layout_height="0dp"
+                android:layout_width="match_parent"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                >
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.9"
+                    android:textColor="@color/colorGrey1"
+                    android:fontFamily="sans-serif-light"
+                    android:textSize="18sp"
+                    android:text="No Brand Selected"
+                    android:gravity="center_vertical|left"
+                    android:paddingLeft="10dp"
+                    android:id="@+id/fragment_compatibility_check_tv_brandname"
+                    />
+
+
+
+                <com.toptoche.searchablespinnerlibrary.SearchableSpinner android:id="@+id/sp_brand"
+                    android:layout_width="0dp"
+                    android:layout_weight="0.15"
+                    android:paddingTop="10dp"
+                    style="@style/SpinnerwithNoArrow"
+                    android:dropDownWidth="fill_parent"
+                    android:gravity="center"
+                    android:layout_gravity="center"
+                    android:padding="14dp"
+                    android:background="@mipmap/screen1_downarrow_icon"
+                    android:layout_height="30dp" />
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.15"
+                    >
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_height="0dp"
+                android:layout_width="match_parent"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                >
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.9"
+                    android:textColor="@color/colorGrey1"
+                    android:fontFamily="sans-serif-light"
+                    android:textSize="18sp"
+                    android:text="No Device Selected"
+                    android:gravity="center_vertical|left"
+                    android:paddingLeft="10dp"
+                    android:id="@+id/fragment_compatibility_check_tv_devicename"
+                    />
+
+
+
+                <com.toptoche.searchablespinnerlibrary.SearchableSpinner android:id="@+id/sp_device"
+                    android:layout_width="0dp"
+                    android:layout_weight="0.15"
+                    android:paddingTop="10dp"
+                    style="@style/SpinnerwithNoArrow"
+                    android:dropDownWidth="fill_parent"
+                    android:gravity="center"
+                    android:layout_gravity="center"
+                    android:padding="14dp"
+                    android:background="@mipmap/screen1_downarrow_icon"
+                    android:layout_height="30dp" />
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.15"
+                    >
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+
+        >
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/screen1_data_icon"
+            android:layout_gravity="center"
+            android:padding="15dp"
+            android:id="@+id/fragment_compatibility_check_iv_data"
+            />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.8"
+            android:textColor="@color/colorGrey1"
+            android:fontFamily="sans-serif-light"
+            android:textSize="20sp"
+            android:text="Data services"
+            android:gravity="center_vertical|left"
+            android:paddingLeft="10dp"
+            android:id="@+id/fragment_compatibility_check_tv_dataCheck"
+            />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+
+        >
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@mipmap/screen1_call_icon"
+            android:padding="15dp"
+            android:id="@+id/fragment_compatibility_check_iv_call"
+            />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.8"
+            android:textColor="@color/colorGrey1"
+            android:fontFamily="sans-serif-light"
+            android:textSize="20sp"
+            android:text="Call services"
+            android:gravity="center_vertical|left"
+            android:paddingLeft="10dp"
+            android:id="@+id/fragment_compatibility_check_tv_callCheck"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+
+        >
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@mipmap/screen1_gift_icon"
+            android:padding="15dp"
+            android:id="@+id/fragment_compatibility_check_iv_offer"
+            />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.8"
+            android:textColor="@color/colorGrey1"
+            android:fontFamily="sans-serif-light"
+            android:textSize="20sp"
+            android:text="Offer Availability"
+            android:gravity="center_vertical|left"
+            android:paddingLeft="10dp"
+            android:id="@+id/fragment_compatibility_check_tv_offerCheck"
+            />
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:textColor="@color/colorGreen1"
+        android:fontFamily="sans-serif-light"
+        android:text="Select A device"
+        android:gravity="center"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:id="@+id/fragment_compatibility_check_tv_finalMessage"
+        />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:textColor="@color/colorPrimary"
+        android:fontFamily="sans-serif-light"
+        android:text="If your device is not in list / doesn't support any one of the feature click here !!"
+        android:gravity="center"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:id="@+id/fragment_compatibility_check_tv_makeCompatibleMessage"
+        >
+
+
+    </TextView>
+</LinearLayout>

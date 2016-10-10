@@ -1,0 +1,81 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:fancy="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="#ffffff"
+    android:layout_marginTop="50dp">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.2"
+
+        >
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.5"
+        android:gravity="center"
+        android:padding="5dp"
+        android:text="If you are connected to INTERNET and want to support the developers, please click the button below to view some ads. We earn few bucks if you click on the ads that appear. So if you like our product please click the ads that appear to support us. Thanks for your love and support."
+        android:textSize="20sp"
+        android:fontFamily="sans-serif-light"
+        android:textColor="@color/colorAccent"
+        android:id="@+id/tvSupportUs"
+        />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.2"
+
+        >
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.8"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:paddingTop="10dp"
+        >
+
+        <mehdi.sakout.fancybuttons.FancyButton
+            android:id="@+id/btn_show_ad"
+            android:layout_width="190dp"
+            android:layout_height="70dp"
+            fancy:fb_borderColor="#ffffff"
+            fancy:fb_borderWidth="8dp"
+            fancy:fb_defaultColor="@color/colorPrimary"
+            fancy:fb_focusColor="@color/colorPrimaryDark"
+            android:fontFamily="sans-serif-light"
+            fancy:fb_iconPosition="left"
+            fancy:fb_radius="30dp"
+            android:gravity="center"
+            fancy:fb_text="Support Us"
+            fancy:fb_textColor="#FFFFFF"
+            android:layout_gravity="center" />
+
+    </LinearLayout>
+
+
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.3"
+
+        >
+
+    </LinearLayout>
+
+
+</LinearLayout>

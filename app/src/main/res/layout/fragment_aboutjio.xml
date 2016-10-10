@@ -2,8 +2,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     xmlns:tools="http://schemas.android.com/tools"
-    android:fillViewport="true"
-    tools:context=".AboutJioFragment">
+    android:layout_marginTop="70dp"
+    android:fillViewport="true">
     <FrameLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -15,11 +15,10 @@
             android:layout_height="match_parent"
             android:text="About Jio Fragment"
             android:textSize="14dp"
-            android:textColor="@color/colorSecondaryText"
+            android:textColor="@color/colorAccent"
+            android:fontFamily="sans-serif-light"
+            android:gravity="center"
             android:id="@+id/tvAboutJio"/>
 
     </FrameLayout>
 </ScrollView>
-
-
-
